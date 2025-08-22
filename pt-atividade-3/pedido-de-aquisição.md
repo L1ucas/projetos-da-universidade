@@ -8,7 +8,7 @@ Ao Reitor H██████████ d██ S█████ S████
 
 Senhor Reitor,
 
-Em vista da necessidade atual presente no Polo de Crateús, *solicitamos a substituição dos computadores das seguintes salas*: setor administrativo, setor financeiro, laboratório de Informática e laboratório de Química. O total do número de computadores a serem substituídos é de 50.
+Em vista da necessidade atual presente no Polo de Crateús, **solicitamos a substituição dos computadores das seguintes salas**: setor administrativo, setor financeiro, laboratório de Informática e laboratório de Química. O total do número de computadores a serem substituídos é de 50.
 
 A setor administrativo e o setor financeiro concordaram em fazer a solicitação ao senhor pelos seguintes motivos:
 
@@ -19,9 +19,9 @@ A setor administrativo e o setor financeiro concordaram em fazer a solicitação
 
 Devido aos problemas apresentados e a uma investigação do nosso setor financeiro, acreditamos que a compra de novos computadores usará melhor do dinheiro público do que o reparo das máquinas que possuímos.
 
-*Solicitamos 50 notebooks Exidy Sorcerer*. Acreditamos que esses notebooks são substitutos ideais por possuirem preços baixos e especificações superiores aos computadores atuais. A tabela comparando as especificações dos computadores atuais com os Exidy Sorcerer está no Anexo 1. Imagens estão no Anexo 2 e 3.
+**Solicitamos 50 notebooks Exidy Sorcerer**. Acreditamos que esses notebooks são substitutos ideais por possuirem preços baixos e especificações superiores aos computadores atuais. A tabela comparando as especificações dos computadores atuais com os Exidy Sorcerer está no Anexo 1. Imagens estão no Anexo 2 e 3.
 
-*A instituição se responsabiliza pela organização e instalação dos computadores.*
+**A instituição se responsabiliza pela organização e instalação dos computadores.**
 
 Atenciosamente,
 
