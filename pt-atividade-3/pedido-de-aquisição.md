@@ -33,7 +33,7 @@ Aluno
 
 |                                               | Atuais                                           | Exidy Sorcerer                               |
 |-----------------------------------------------|--------------------------------------------------|----------------------------------------------|
-| Velocidade do processador                     |                                                  |                                              |
+| Velocidade do processador                     | 3 GHz                                            | 2,106 MHz                                    |
 | Memória RAM                                   | 8 GB                                             | 48 kB                                        |
 | Armazenamento do HD                           | 1 TB                                             | Nenhum                                       |
 | Placa de Som                                  | Realtek                                          | Nenhuma                                      |

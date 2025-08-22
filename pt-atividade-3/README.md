@@ -1,5 +1,7 @@
 # "Elaboração de Projeto Técnico Em Markdown - Aquisição De Notebooks Para A Escola"
 
+**RESOLUÇÃO DA ATIVIDADE ESTÁ NO ARQUIVO** `pedido-de-aquisição.md`.
+
 *Objetivo*: Nesta atividade, você vai aplicar todos os conhecimentos sobre clareza, coesão, coerência, precisão gramatical, adequação ao público e formatação de textos técnicos. Seu desafio será elaborar um Projeto Técnico detalhado para a aquisição de novos notebooks para os laboratórios ou salas de aula da sua escola (ou uma escola fictícia), visando substituir os computadores atuais.
 
 Especificamente, você deverá:
