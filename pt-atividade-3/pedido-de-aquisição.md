@@ -40,7 +40,7 @@ Devido aos problemas apresentados e a uma investigação do nosso setor financei
 | Armazenamento | 256 GB   | 1 TB        |
 | Display       | Full HD  | Full HD     |
 
-![imagem](https://p1-ofp.static.pub//medias/23809986225_IdeaPad115ADA7Cloud_Grey_202108120307091695688894285.png)
+![imagem](img/lenovo.webp)
 
 ## Orçamento Estimado
 
